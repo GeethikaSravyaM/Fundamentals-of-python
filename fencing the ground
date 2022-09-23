@@ -1,0 +1,18 @@
+Input Format: 
+Input consists of 2 integers. 
+The first integer corresponds to the length of the ground 
+The second integer corresponds to the breadth of the ground. 
+Output Format:  
+First output is corresponds to the length of the rope.
+Second output is corresponds to the quantity of the carpet.
+SAMPLE  INPUT:50
+              20
+SAMPLE OUTPUT:
+Required length is 140 m
+Required quantity of carpet is 1000 sqm
+CODE
+a=int(input())
+b=int(input())
+print("required length is",2*(a+b),'m')
+print("required quantity of carpet is",a*b,'sqm')
+
