@@ -1,0 +1,6 @@
+Sample Input:
+56
+Sample Output:
+56
+a=int(input())
+print (a)
