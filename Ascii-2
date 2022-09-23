@@ -1,0 +1,7 @@
+Sample Input:103
+Sample Outpt:g
+CODE
+a=int(input())
+print(chr(a))
+
+
