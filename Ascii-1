@@ -1,0 +1,6 @@
+Sample Input :g
+Sample Output:103
+CODE
+a=input()
+print(ord(a))
+
