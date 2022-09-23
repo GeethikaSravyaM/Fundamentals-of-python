@@ -1,0 +1,5 @@
+Sample Input :Programmer
+Sample Output :Programmer
+CODE
+a=(input())
+print (a)
