@@ -1,0 +1,6 @@
+Sample Input:z
+Sample Output:z
+CODE
+gs=input()
+print(gs)
+ 
