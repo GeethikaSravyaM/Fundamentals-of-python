@@ -1,0 +1,3 @@
+Sample Output:
+Hello World	Hello World
+print('hello world\t hello world')
