@@ -1,0 +1,5 @@
+Sample Input :56.2425
+Sample Output :56.24
+CODE
+gs=float(input())
+print(gs)
